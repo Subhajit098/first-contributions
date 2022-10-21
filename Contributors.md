@@ -8,6 +8,7 @@
 - [Nharvey](https://github.com/nharvee)
 - [Arpan Mondal](https://github.com/arpan-mondal)
 - [Shubham Kumar](https://github.com/shubhamkumar101)
+- [Subhajit Dey](https://github.com/Subhajit098)
 - [Vincent Aziza](https://github.com/veaziza)
 - [June Muoti](https://github.com/JuneMuoti)
 - [Roopesh Keshav] (https://github.com/83aqua)
